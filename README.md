@@ -67,7 +67,7 @@ Each file in the `app/` folder plays a modular role in separating concerns like 
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repo-url>
+   git clone <repo-url>
    cd <project-folder>
    ```
 
@@ -75,7 +75,7 @@ Each file in the `app/` folder plays a modular role in separating concerns like 
 
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   On Windows: venv\Scripts\activate
    ```
 
 3. **Install dependencies:**
